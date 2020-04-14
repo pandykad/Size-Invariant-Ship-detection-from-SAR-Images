@@ -38,3 +38,6 @@ Confidence: 94%
 Sample 7 :  
 Multiple Ship Detection    
 <img src="Result%20Images/sample_7.png" width="400">  
+  
+  
+## Happy Experimentation !
