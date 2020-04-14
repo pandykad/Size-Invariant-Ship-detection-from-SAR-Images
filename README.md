@@ -32,9 +32,9 @@ Confidence: 99.3%
 <img src="Result%20Images/sample_5.png" width="400">  
 
 Sample 6 :  
-Confidence: 99%  
+Confidence: 94%  
 <img src="Result%20Images/sample_6.png" width="400">  
 
 Sample 7 :  
-Confidence: 99%  
+Multiple Ship Detection    
 <img src="Result%20Images/sample_7.png" width="400">  
