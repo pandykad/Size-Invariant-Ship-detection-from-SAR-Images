@@ -1,7 +1,7 @@
 # Size-Invariant-Ship-detection-from-SAR-Images
 ## A Deep Learning based approach to detect ships from satellite images. 
 
-Implementation of this repository has been kept confidential for the time being due to confidentiality aggrement but these are some of the outputs from the Experimentaion :
+Implementation of this repository has been kept confidential for the time being due to confidentiality agreement but these are some of the outputs from the Experimentaion :
 
 Sample 1 :  
 Confidence: Large Ship = 99%, Small Ship Moving = 35%  
@@ -28,5 +28,13 @@ Computation Resources used: 65.33 BFLOPS
 <img src="Result%20Images/sample_4.png" width="400">  
 
 Sample 5 :  
-Confidence: 99%  
+Confidence: 99.3%  
 <img src="Result%20Images/sample_5.png" width="400">  
+
+Sample 6 :  
+Confidence: 99%  
+<img src="Result%20Images/sample_6.png" width="400">  
+
+Sample 7 :  
+Confidence: 99%  
+<img src="Result%20Images/sample_7.png" width="400">  
